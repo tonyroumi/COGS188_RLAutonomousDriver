@@ -1,0 +1,7 @@
+=== Evaluation Results ===
+Model: models/actor_critic_weights.pth
+Total episodes: 10
+Average Reward: -37.31
+Average Collisions: 30.00
+Success Rate: 0.0%
+Average Steps: 20.0

@@ -1,0 +1,10 @@
+pygame
+numpy
+torch>=1.7.0
+opencv-python
+psutil
+py-cpuinfo
+open3d
+Pillow
+networkx
+matplotlib 
